@@ -1,28 +1,40 @@
-name: dhtest
-favicon: null
-layout_spectrum: 0.5011736135929823
-typography_spectrum: 0.987328978953883
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.5011736135929823
+favicon: null
+name: dhtest
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.5165078635327518
+  lightness: 0.7681704
+  saturation: 0.8778195
+  rhythmicContrast: 0.08897243
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.5165078635327518
-  lightness: 0.6719885268248618
-  saturation: 0.9741564884316176
-  rhythmicContrast: 0.13842005119659007
-purpose: []
+typography_spectrum: 0.987328978953883
