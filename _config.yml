@@ -19,6 +19,9 @@ analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: David
+  email: ''
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d557804-a481-4f4b-a03a-21b895b05d40.jpg
 name: dhtest
@@ -39,4 +42,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Some photos
 purpose: []
