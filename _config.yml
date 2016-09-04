@@ -1,19 +1,30 @@
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.9649123
-favicon: null
-name: dhtest
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+typography_spectrum: 0
+color:
+  brandStrength: 0.5165078635327518
+  lightness: 0
+  saturation: 0.6854637
+  rhythmicContrast: 0.8865915
+  brandColors:
+    - '#282828'
+    - '#2D80AA'
+    - '#EDC808'
+    - '#868687'
+    - '#B0B0B0'
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.9649123
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: dhtest
+cta:
+  version: null
+  bucket: null
+  domain: null
+favicon: null
 collections:
   - index:
       navigable: true
@@ -26,15 +37,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.5165078635327518
-  lightness: 0
-  saturation: 0.6854637
-  rhythmicContrast: 0.8865915
-  brandColors:
-    - '#282828'
-    - '#2D80AA'
-    - '#EDC808'
-    - '#868687'
-    - '#B0B0B0'
-typography_spectrum: 0
+purpose: []
